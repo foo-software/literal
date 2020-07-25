@@ -4,7 +4,7 @@
 
 # Literal
 
-While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user.
+While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user. Literal takes different approaches in its core to prioritize ease of development and optimal user experience.
 
 Below are a list of JavaScript library characteristics Literal aims to differ on compared to the mainstream.
 
