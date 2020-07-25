@@ -2,7 +2,7 @@
 
 **Important**: This project is under development and hasn't been released.
 
-# Why Use Literal
+# Literal
 
 While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user.
 
