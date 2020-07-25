@@ -4,7 +4,11 @@
 
 # Literal
 
-While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user. Literal takes different approaches in its core to prioritize ease of development and optimal user experience.
+While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user. Literal takes different approaches in its core to prioritize ease of development and optimal user experience. Below are the main incentives of Literal.
+
+- **To help engineers create performant websites that rank well in search engines**. [Google will prioritize page experience](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) in its search algorithm. Most enterprise websites built with modern frameworks perform poorly in [Lighthouse tests](https://developers.google.com/web/tools/lighthouse).
+- **To provide an easy to learn API**. Literal is easy to learn and teach for engineers of all levels.
+- **To provide a simple path to for migration**. Literal aims to provide similar tools and APIs to provide the easiest way to transition out of other JavaScript libraries.
 
 Below are a list of JavaScript library characteristics Literal aims to differ on compared to the mainstream.
 
