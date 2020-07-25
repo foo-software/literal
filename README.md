@@ -12,7 +12,7 @@ Below are the main incentives of Literal.
 - **To provide an easy to learn API**. Literal is easy to learn and teach for engineers of all levels.
 - **To provide a simple path to for migration**. Literal aims to provide similar tools and APIs to provide the easiest way to transition out of other JavaScript libraries.
 
-# Why Use Literal
+# Literal Compared
 
 Below are a list of JavaScript library characteristics Literal aims to differ on compared to the mainstream.
 
