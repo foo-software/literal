@@ -12,6 +12,8 @@ Below are the main incentives of Literal.
 - **To provide an easy to learn API**. Literal is easy to learn and teach for engineers of all levels.
 - **To provide a simple path to for migration**. Literal aims to provide similar tools and APIs to provide the easiest way to transition out of other JavaScript libraries.
 
+# Why Use Literal
+
 Below are a list of JavaScript library characteristics Literal aims to differ on compared to the mainstream.
 
 - **A "literal" DOM** (server-side rendering by default): The concept of a "virtual DOM" has been all the hype with its slick component based API and efficient data binding. Libraries like React and Vue don't support server-side rendering out of the box. Users who are concerned about SEO, for example, typically establish server-side rendering by utilizing frameworks like Next.js on top of React, but by doing so have to manage another dependency and its versions. Server-side rendering in React also yields the challenge of maintaining parity between server-side and client-side rendering. Long running client-side hydration can cause a bad experience and degrade performance. The cost of virtual DOM [reconcilliation](https://reactjs.org/docs/reconciliation.html) is not worth the value. Literal provides the good things about a virtual DOM with a declarative component-based interface, but without the over-engineering and coins the term "literal DOM". Literal provides server-side rendering by default.
