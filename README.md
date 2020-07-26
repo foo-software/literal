@@ -8,9 +8,9 @@ While popular JavaScript libraries like React have revolutionized software engin
 
 Below are the main incentives of Literal.
 
-- **To help engineers create performant websites that rank well in search engines**. [Google will prioritize page experience](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) in its search algorithm. Most enterprise websites built with modern frameworks perform poorly in [Lighthouse tests](https://developers.google.com/web/tools/lighthouse).
+- **To help engineers create performant websites that rank well in search engines**. [Google will prioritize page experience](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) in its search algorithm. Literal focuses on performance first by utilizing tools like [Lighthouse](https://developers.google.com/web/tools/lighthouse) and [Web Vitals](https://github.com/GoogleChrome/web-vitals) to ensure performance optimization.
 - **To provide an easy to learn API**. Literal is easy to learn and teach for engineers of all levels.
-- **To provide a simple path to for migration**. Literal aims to provide similar tools and APIs to provide the easiest way to transition out of other JavaScript libraries.
+- **To provide a simple path to for migration**. Literal draws inpiration from popular modern JavaScript libraries to provides similar tools, APIs and effectively a straightforward path of migration.
 
 # Comparison
 
