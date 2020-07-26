@@ -4,13 +4,17 @@
 
 # Literal
 
-While popular JavaScript libraries like React have revolutionized software engineering, their evolution have nurtured the growth of inherent challenges absorbed by the end user. Literal takes different approaches in its core to prioritize ease of development and optimal user experience.
+While popular JavaScript libraries like React have revolutionized software engineering, some of their core characteristics impose inherent challenges to the end user. The level of challenges these libraries impose can become blockers in creating web applications fit for today's standards. Literal takes alternative approaches to prioritize ease of development and optimal user experience.
 
 Below are the main incentives of Literal.
 
 - **To help engineers create performant websites that rank well in search engines**. [Google will prioritize page experience](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html) in its search algorithm. Literal focuses on performance first by utilizing tools like [Lighthouse](https://developers.google.com/web/tools/lighthouse) and [Web Vitals](https://github.com/GoogleChrome/web-vitals) to ensure performance optimization.
 - **To provide an easy to learn API**. Literal is easy to learn and teach for engineers of all levels.
 - **To provide a simple path to for migration**. Literal draws inpiration from popular modern JavaScript libraries to provides similar tools, APIs and effectively a straightforward path of migration.
+
+## RFCs
+
+Coming soon...
 
 # Comparison
 
@@ -20,3 +24,7 @@ Below are a list of JavaScript library characteristics Literal aims to differ on
 - **Opinionated**: While some JavaScript libraries like React highlight an unopinionated, flexible stance - Literal focuses on establishing an opinionated, standardized framework. React requires the end user to "shop" for solutions that can yield to a "dependency hell" in which a variety of dependencies and versions of dependencies conflict. *State management* is a good example that can cause this situation. To handle global state React engineers need to choose between the core Context API, or Redux, Sagas, RxJS, etc, etc. Many of these libraries add significant bytes to parsed JavaScript which degrade website performance dramatically. Not only do these dependencies add bytes to parse by the browser but also a variety of complexities in testing and integration. By establishing a standardized open-source library, solutions like state management are developed in its core and mature over time.
 
 More coming soon...
+
+# Road Map
+
+Coming soon...
