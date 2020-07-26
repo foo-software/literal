@@ -4,7 +4,7 @@
 
 # Literal
 
-While popular JavaScript libraries like React have revolutionized software engineering, some of their core characteristics impose inherent challenges to the end user. The level of challenges these libraries impose can become blockers in creating web applications fit for today's standards. Literal takes alternative approaches to prioritize ease of development and optimal user experience.
+While popular JavaScript libraries like React have revolutionized software engineering, some of their core characteristics impose inherent challenges to end users. The level of challenges these libraries impose can become blockers in creating web applications fit for today's standards. Literal takes alternative approaches to prioritize ease of development and optimal user experience.
 
 Below are the main incentives of Literal.
 
