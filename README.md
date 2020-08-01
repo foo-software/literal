@@ -1,8 +1,8 @@
-<img src="https://literaljs.s3.amazonaws.com/literal-logo.png?v2" width="60" height="60" align="left" /> A full stack JavaScript library for creating component based websites. In the growing, complex ecosystem of web development Literal draws inspiration from popular modern JavaScript libraries but aims to prioritize interface simplicity, standardization, performance, and user experience.
+<img src="https://literaljs.s3.amazonaws.com/literal-logo.png?v3" width="60" height="60" align="left" /> A full stack JavaScript library for creating component based websites. In the growing, complex ecosystem of web development Literal draws inspiration from popular modern JavaScript libraries but aims to prioritize interface simplicity, standardization, performance, and user experience.
 
 **Important**: This project is under development and hasn't been released.
 
-## Call for Contributions 📢
+## Call for Contributions
 
 We'd love to have you onboard! Check the [road map section](#road-map) for details.
 
