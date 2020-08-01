@@ -34,8 +34,8 @@ Each item on the road map is loosely described in our [main RFC](https://github.
 | 1 | Documentation server | [see main RFC][1] | to-do | -- | -- | -- |
 | 2 | State management | [see main RFC][1] | to-do | -- | -- | `1` |
 | 3 | Build Tooling Boilerplate | Establish a basic setup needed for `4` and `5` | to-do | -- | -- | `1` |
-| 4 | JSX-like API (and tooling?) | [see main RFC][1] | to-do | -- | -- | `1`, `2` |
-| 5 | Styling (and tooling?) | Should accommodate [Bootstrap][2] - [see main RFC][1] | to-do | -- | -- | `1`, `2` |
+| 4 | JSX-like API (and tooling?) | [see main RFC][1] | to-do | -- | -- | `1` - `3` |
+| 5 | Styling (and tooling?) | Should accommodate [Bootstrap][2] - [see main RFC][1] | to-do | -- | -- | `1` - `4` |
 | 6 | Server Support | [see main RFC][1] | to-do | -- | -- | `1` - `5` |
 | 7 | Build Tooling Final | Finalize build tooling - [see main RFC][1]| to-do | -- | -- | `1` - `6` |
 | 8 | Unit Testing Framework | [see main RFC][1] | to-do | -- | -- | `1` - `7` |
