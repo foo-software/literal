@@ -36,9 +36,9 @@ Each item on the road map is loosely described in our [main RFC](https://github.
 | 3 | Build Tooling Boilerplate | Establish a basic setup needed for `4` and `5` | to-do | -- | -- | `1` |
 | 4 | JSX-like API (and tooling?) | [see main RFC][1] | to-do | -- | -- | `1`, `2` |
 | 5 | Styling (and tooling?) | Should accommodate [Bootstrap][2] - [see main RFC][1] | to-do | -- | -- | `1`, `2` |
-| 6 | Build Tooling Final | Finalize build tooling - [see main RFC][1]| to-do | -- | -- | `1`, `3`, `4`, `5` |
-| 7 | Server Support | [see main RFC][1] | to-do | -- | -- | `1` - `6` |
-| 8 | Unit Testing Framework | [see main RFC][1] | to-do | -- | -- | `1` - `6` |
+| 6 | Server Support | [see main RFC][1] | to-do | -- | -- | `1` - `5` |
+| 7 | Build Tooling Final | Finalize build tooling - [see main RFC][1]| to-do | -- | -- | `1` - `6` |
+| 8 | Unit Testing Framework | [see main RFC][1] | to-do | -- | -- | `1` - `7` |
 | 9 | Examples | POC should use [Bootstrap][2] for styling - [see main RFC][1] | to-do | -- | -- | `1` - `8` |
 
 [1]: https://github.com/foo-software/literal-rfcs
