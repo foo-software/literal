@@ -2,7 +2,7 @@
 
 **Important**: This project is under development and hasn't been released.
 
-# 📣 Call for Contributions
+## 📢 Call for Contributions
 
 We'd love to have you onboard! Check the [road map section](#road-map) for details.
 
