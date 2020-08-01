@@ -29,8 +29,8 @@ Below are the main incentives of Literal.
 
 Each item on the road map is loosely described in our [main RFC](https://github.com/foo-software/literal-rfcs/blob/master/text/0001-literal.md#detailed-design). Any item on the list below without an "accepted RFC" is up for grabs. If you have an idea that differs from an in-progress RFC, feel free to propose your own - otherwise we'd encourage commenting on the existing one. To submit an RFC for any of the items below without one, follow the [process documented here][1]. See the [contributing section](#contributing) for more details.
 
-| ID | Name | Description | Status | Accepted RFC | Assignee | Dependency |
-|----|------|-------------|--------|--------------| ---------| ---------- |
+|   | Name | Description | Status | Accepted RFC | Assignee | Dependency |
+|---|------|-------------|--------|--------------| ---------| ---------- |
 | 1 | Documentation server | [see main RFC][1] | to-do | -- | -- | -- |
 | 2 | State management | [see main RFC][1] | to-do | -- | -- | `1` |
 | 3 | Build Tooling Boilerplate | Establish a basic setup needed for `4` and `5` | to-do | -- | -- | `1` |
