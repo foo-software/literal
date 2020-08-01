@@ -1,4 +1,4 @@
-<img src="https://literaljs.s3.amazonaws.com/literal-logo.png?v5" width="60" height="60" align="left" /> A full stack JavaScript library for creating component based websites. In the growing, complex ecosystem of web development Literal draws inspiration from popular modern JavaScript libraries but aims to prioritize interface simplicity, standardization, performance, and user experience.
+<img src="https://literaljs.s3.amazonaws.com/literal-logo.png?v6" width="60" height="60" align="left" /> A full stack JavaScript library for creating component based websites. In the growing, complex ecosystem of web development Literal draws inspiration from popular modern JavaScript libraries but aims to prioritize interface simplicity, standardization, performance, and user experience.
 
 **Important**: This project is under development and hasn't been released.
 
@@ -37,7 +37,7 @@ Each item on the road map is loosely described in our [main RFC](https://github.
 | 4 | JSX-like API (and tooling?) | [see main RFC][1] | to-do | -- | -- | `1`, `2` |
 | 5 | Styling (and tooling?) | Should accommodate [Bootstrap][2] - [see main RFC][1] | to-do | -- | -- | `1`, `2` |
 | 6 | Build Tooling Final | Finalize build tooling - [see main RFC][1]| to-do | -- | -- | `1`, `3`, `4`, `5` |
-| 7 | Dev and Production Server | [see main RFC][1] | to-do | -- | -- | `1` - `6` |
+| 7 | Server Support | [see main RFC][1] | to-do | -- | -- | `1` - `6` |
 | 8 | Unit Testing Framework | [see main RFC][1] | to-do | -- | -- | `1` - `6` |
 | 9 | Examples | POC should use [Bootstrap][2] for styling - [see main RFC][1] | to-do | -- | -- | `1` - `8` |
 
